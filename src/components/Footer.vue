@@ -7,13 +7,13 @@
                 </p>
             </div>
             <div class="col-md text-center">
-                <a href="https://matrix.to/#/@augustotx:matrix.org">Matrix</a>
+                <a target="_blank" href="https://matrix.to/#/@augustotx:matrix.org">Matrix</a>
             </div>
             <div class="col-md text-center">
-                <a href="https://mastodon.social/@augustotx">Mastodon</a>
+                <a target="_blank" href="https://mastodon.social/@augustotx">Mastodon</a>
             </div>
             <div class="col-md text-center">
-                <a href="https://github.com/augustotx">Github</a>
+                <a target="_blank" href="https://github.com/augustotx">Github</a>
             </div>
         </div>
     </footer>

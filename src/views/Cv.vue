@@ -26,7 +26,7 @@ import Footer from '@/components/Footer.vue'
                         <ul>
                             <li>2023: Made a website for a US company.
                             </li>
-                            <li>Dec 2023-Jan 2024: Worked as general IT assistant for same US company while on trip to the US</li>
+                            <li>Dec 2023-Feb 2024: Worked as general IT assistant for same US company while on trip to the US</li>
                         </ul>
                     </div>
                 </div>
