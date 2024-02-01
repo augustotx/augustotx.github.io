@@ -1,7 +1,7 @@
 <template>
     <footer id="footer">
         <div class="row">
-            <div class="col-md-10 text-justify">
+            <div class="col-md-6 text-justify">
                 <p>This website is licensed under the GNU <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPLv3</a>
                     license. Source code can be found <a href="https://github.com/augustotx/augustotx.github.io">here</a>.
                 </p>

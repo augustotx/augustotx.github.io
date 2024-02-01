@@ -12,7 +12,7 @@ import Footer from '@/components/Footer.vue'
                     <p>When I was a kid I was a very unruly student. I changed schools three times before landing on my
                         final one in 6th Grade.</p>
                     <p>I took an IT technical course in there, that's where I started loving technology. Loving free
-                        software came a year later. After that I studied for a year to pass University exams, and passed a
+                        software came a year later. After that I studied for a year to pass university exams, and passed a
                         university entrance exam in 2023 for Computer Science.</p>
                     <h3>Free Software and Linux</h3>
                     <p>
