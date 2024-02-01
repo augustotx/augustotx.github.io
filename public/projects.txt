@@ -1,0 +1,11 @@
+This website
+https://github.com/augustotx/augustotx.github.io
+;;
+Command Line Music Organizer
+https://github.com/augustotx/music-organizer
+;;
+Terminal idle screen
+https://github.com/augustotx/idleterm
+;;
+My fork of [InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime)
+https://github.com/augustotx/InfiniTime

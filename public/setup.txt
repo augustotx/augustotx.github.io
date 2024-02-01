@@ -1,0 +1,27 @@
+Main Desktop
+Linux (mainly Arch)
+Ryzen 5 3600
+GTX 1660 SUPER
+16Gb 2666MHz DDR4
+1Tb SATA SSD
+1Tb Sata HDD
+Oculus Rift S with [bypass to SteamVR](https://github.com/BunniKaitlyn/OculusKiller)
+60% Hotswap Keyboard (Gateron Red Switches), Redragon M711 V2 Mouse
+;;
+Laptop (Pinebook Pro)
+Manjaro Linux
+ARM Rockchip RK3399 SoC
+SoC
+4Gb LPDDR4 Soldered
+64Gb EMMC
+;;
+Main Phone (Motorola Edge 20)
+[Lineage OS for Microg](https://lineage.microg.org/)
+Phone specs [here](https://www.gsmarena.com/motorola_edge_20-11034.php)
+;;
+Future Main Phone (Pinephone Pro)
+Manjaro Linux (will probably install arch or PostMarketOS)
+Rockchip RK3399S SoC
+SoC
+4Gb LPDDR4
+128 EMMC
